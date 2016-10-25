@@ -1,0 +1,12 @@
+EUR EuroRates.txt
+USD USDollarRates.txt
+AUD AustraliaDollarRates.txt
+THB ThaiRates.txt
+INR IndiaRates.txt
+GBP UKRates.txt
+CNY ChinaRates.txt
+SAR SaudiRiyal
+RON RomaniaRates.txt
+NZD NewZealandRates.txt
+BIT BitcoinRates.txt
+JPY JapanRates.txt
